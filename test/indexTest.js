@@ -36,3 +36,4 @@ describe('', () => {
     })
   })
 })
+console.log(message);
